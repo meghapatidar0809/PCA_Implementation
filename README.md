@@ -8,10 +8,10 @@ This project applies Principal Component Analysis (PCA) to an eight-dimensional 
 3. Least Squares Classifier
 
 ### Dependencies:
--> Python 3.x (<br>)
--> NumPy (<br>)
--> Pandas (<br>)
--> Scikit-learn (<br>)
--> Seaborn (<br>)
--> Plotly (<br>)
+-> Python 3.x <br>
+-> NumPy <br>
+-> Pandas <br>
+-> Scikit-learn <br>
+-> Seaborn <br>
+-> Plotly <br>
 
